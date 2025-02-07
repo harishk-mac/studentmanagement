@@ -1,0 +1,16 @@
+
+Implemented -> Can admit a student to the school with information such as name, date of birth , gender, unique_student_code. A student can have many addresses(area ,state, district, pincode,addressType) like permanent, correspondence,current.
+Implemented ->  Can Upload course details such as (course name, description, course type, duration,topics)
+Implemented -> Can assign courses to student
+Implemented -> Can get students by name
+Implemented -> Can get students assigned to a particular course.
+
+Implemented -> Can update profile details such as (email, mobile number , parents name,address)
+Implemented -> Can search for topics/courses he assigned
+Implemented -> Can leave a course .
+
+Must Have
+Implemented -> Entity layer, Repo Layer, Controller, Business layer
+Implemented -> JPA with hibernate
+Implemented -> Spring boot for rest api
+Implemented -> DTO layer and mapping between DTO and entity
